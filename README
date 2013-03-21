@@ -1,1 +1,8 @@
-Hello
+git checkout f6e715bc4654ebbb17b9b4867f6e51ff8fa0362f
+This should get prog.c that prints Hello World
+
+git checkout bf576655686a7ef5dfa704f44dd04e68b51386a8
+This should get prog.c that prints Hello World, have a nice day
+
+git checkout 43b62982203cf74d26dcaf526eb0e51198c7e91a
+This should get prog.c that prints Have a nice day
